@@ -1,0 +1,13 @@
+
+
+El numero de palabras es: 3
+
+ 
+
+la palabra: hola como estas 
+
+ a= 2 
+ e= 1 
+ i= 0 
+ o= 3 
+ u= 0 
